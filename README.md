@@ -1,28 +1,3 @@
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Enzzo.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Enzzo.&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
 
 <p align="left">Projeto 5 Escola</p>
 
